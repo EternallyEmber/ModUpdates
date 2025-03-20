@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8" standalone="no" ?>
+<SetObject>
+
+  <LayerDefine>
+    <Center>
+      <w>0</w>
+      <x>0</x>
+      <y>0</y>
+      <z>0</z>
+    </Center>
+    <MergeFile></MergeFile>
+    <OffsetBoxA>
+      <w>0</w>
+      <x>0</x>
+      <y>0</y>
+      <z>0</z>
+    </OffsetBoxA>
+    <OffsetBoxB>
+      <w>0</w>
+      <x>0</x>
+      <y>0</y>
+      <z>0</z>
+    </OffsetBoxB>
+    <OffsetRadius>0</OffsetRadius>
+    <PositionOffset>
+      <w>0</w>
+      <x>0</x>
+      <y>0</y>
+      <z>0</z>
+    </PositionOffset>
+    <RotationOffsetY>0</RotationOffsetY>
+  </LayerDefine>
+
+  <EvilEnemyRecklessR>
+    <FirstState>0</FirstState>
+    <GroundOffset>0</GroundOffset>
+    <Personality>0</Personality>
+    <Position>
+      <w>1</w>
+      <x>-69</x>
+      <y>10.6744</y>
+      <z>190</z>
+    </Position>
+    <Rotation>
+      <w>0.707107</w>
+      <x>0</x>
+      <y>-0.707107</y>
+      <z>0</z>
+    </Rotation>
+    <SetObjectID>5466</SetObjectID>
+  </EvilEnemyRecklessR>
+
+  <EvilEnemyRecklessR>
+    <FirstState>0</FirstState>
+    <GroundOffset>0</GroundOffset>
+    <Personality>0</Personality>
+    <Position>
+      <w>1</w>
+      <x>-69</x>
+      <y>10.6744</y>
+      <z>192</z>
+    </Position>
+    <Rotation>
+      <w>0.707107</w>
+      <x>0</x>
+      <y>-0.707107</y>
+      <z>0</z>
+    </Rotation>
+    <SetObjectID>5467</SetObjectID>
+  </EvilEnemyRecklessR>
+
+  <EvilEnemyRecklessR>
+    <FirstState>0</FirstState>
+    <GroundOffset>0</GroundOffset>
+    <Personality>0</Personality>
+    <Position>
+      <w>1</w>
+      <x>-68.9459</x>
+      <y>10.6744</y>
+      <z>187.639</z>
+    </Position>
+    <Rotation>
+      <w>0.707107</w>
+      <x>0</x>
+      <y>-0.707107</y>
+      <z>0</z>
+    </Rotation>
+    <SetObjectID>5468</SetObjectID>
+  </EvilEnemyRecklessR>
+
+</SetObject>

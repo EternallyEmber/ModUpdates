@@ -1,3 +1,0 @@
-add mod.ini
-add disk_level_data/bb/#ghz200.ar.00
-add disk_level_data/bb/#ghz200.arl

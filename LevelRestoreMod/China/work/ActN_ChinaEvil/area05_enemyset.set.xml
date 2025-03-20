@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8" standalone="no" ?>
+<SetObject>
+
+  <LayerDefine>
+    <Center>
+      <w>0</w>
+      <x>0</x>
+      <y>0</y>
+      <z>0</z>
+    </Center>
+    <MergeFile></MergeFile>
+    <OffsetBoxA>
+      <w>0</w>
+      <x>0</x>
+      <y>0</y>
+      <z>0</z>
+    </OffsetBoxA>
+    <OffsetBoxB>
+      <w>0</w>
+      <x>0</x>
+      <y>0</y>
+      <z>0</z>
+    </OffsetBoxB>
+    <OffsetRadius>0</OffsetRadius>
+    <PositionOffset>
+      <w>0</w>
+      <x>0</x>
+      <y>0</y>
+      <z>0</z>
+    </PositionOffset>
+    <RotationOffsetY>0</RotationOffsetY>
+  </LayerDefine>
+
+  <eThunderBall>
+    <AttackInterval>5</AttackInterval>
+    <AttackTime>5</AttackTime>
+    <GroundOffset>0</GroundOffset>
+    <MoveType>0</MoveType>
+    <Position>
+      <w>1</w>
+      <x>21.3629</x>
+      <y>0.897604</y>
+      <z>-80.7031</z>
+    </Position>
+    <Rotation>
+      <w>-1</w>
+      <x>0</x>
+      <y>-1.92736e-007</y>
+      <z>0</z>
+    </Rotation>
+    <SetObjectID>5803</SetObjectID>
+    <StartTime>10</StartTime>
+  </eThunderBall>
+
+</SetObject>

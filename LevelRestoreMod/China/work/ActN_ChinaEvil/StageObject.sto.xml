@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<StageObject>
+  <EvilEnemyNightmareR />
+  <EvilEnemyNightmareD />
+  <eThunderBall />
+  <EvilEnemyKillerBee />
+  <EvilEnemyKillerBeeRed />
+  <EvilEnemyMasterCure />
+  <EvilEnemyMasterPower />
+  <EvilEnemyMasterSpooky />
+  <EvilEnemyMasterFire />
+  <EvilEnemyMasterLightning />
+  <EvilEnemyRecklessL />
+  <EvilEnemyRecklessR />
+  <EvilEnemySpooky />
+  <EvilEnemySpookyR />
+  <EvilEnemyTitan />
+  <EvilEnemyBigMother />
+  <EvilEnemyFlower />
+  <EvilEnemyFloatNormal />
+  <EvilEnemyFloatCannon />
+  <EvilEnemyFloatThunder />
+  <EvilEnemyEggFighterST />
+</StageObject>
