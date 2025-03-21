@@ -1,6 +1,6 @@
 delete China/*
-add China/+Application.ar.00
-add China/+Application.arl
+add China/+#Application.ar.00
+add China/+#Application.arl
 add China/#ActN_ChinaEvil.ar.00
 add China/#ActN_ChinaEvil.arl
 add China/work/ActN_ChinaEvil/system.set.xml
