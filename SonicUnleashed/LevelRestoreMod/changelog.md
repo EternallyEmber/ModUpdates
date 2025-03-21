@@ -1,0 +1,11 @@
+## Release 1.0.2
+- Fixed the Wonky Camera
+- Implemented better mod packing method for (hopefully) faster update downloads.
+
+## Release 1.0.1
+- Fixed some inconsistencies in loading the mod that made the level unfinishable in some instances.
+- Did minor preparations for a bigger release including Jungle Joyride and Arid Sands.
+- Added automatic update support.
+
+## Release 1.0
+- released mod
