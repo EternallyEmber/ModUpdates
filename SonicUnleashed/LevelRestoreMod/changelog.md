@@ -1,3 +1,7 @@
+## Release 2.0.0-HappyBirthday
+- Added Jungle Joyride Extension
+- I'm Celebrating my Birthday Early!!
+
 ## Release 1.0.2-rev1
 - Reverted medals to final layout because they broke
 - Removed unnessacary files for download

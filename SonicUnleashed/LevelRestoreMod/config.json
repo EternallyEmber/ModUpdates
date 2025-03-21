@@ -1,0 +1,42 @@
+{
+  "Groups": [
+    {
+      "Name": "Main",
+      "DisplayName": "Mod Expansion options",
+      "Elements": [
+        {
+          "Name": "IncludeDir1",
+          "DisplayName": "Do you have DLC installed?",
+          "Description": [
+            "Install DLC to enable The Jungle Joyride Expansion
+
+WARNING: Setting to yes without DLC installed breaks Jungle Joyride!"
+          ],
+          "Type": "layoutEnum",
+          "MinValue": null,
+          "MaxValue": null,
+          "DefaultValue": ""
+        }
+      ]
+    }
+  ],
+  "Enums": {
+    "layoutEnum": [
+      {
+        "DisplayName": "I dont have DLC installed.",
+        "Value": "",
+        "Description": [
+          ""
+        ]
+      },
+      {
+        "DisplayName": "I have DLC installed!",
+        "Value": "Beach",
+        "Description": [
+          ""
+        ]
+      }
+	]
+  },
+   "IniFile":"mod.ini"
+}
