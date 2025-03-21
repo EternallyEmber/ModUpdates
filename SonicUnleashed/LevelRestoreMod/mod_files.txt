@@ -8,5 +8,5 @@ add China/#ActN_ChinaEvil.ar.00
 add China/#ActN_ChinaEvil.arl
 add China/work/ActN_ChinaEvil/system.set.xml
 add Beach/+#ActN_BeachEvil.ar.00
-add Beach/+#ActN_BeachEvil.ar.00
+add Beach/+#ActN_BeachEvil.arl
 add mod.ini
