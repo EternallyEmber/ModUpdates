@@ -4,6 +4,4 @@ add China/+#Application.arl
 add China/#ActN_ChinaEvil.ar.00
 add China/#ActN_ChinaEvil.arl
 add China/work/ActN_ChinaEvil/system.set.xml
-add China/work/ActN_ChinaEvil/area06_enemyset.set.xml
-add China/work/ActN_ChinaEvil/area07_enemyset.set.xml
 add mod.ini

@@ -1,3 +1,7 @@
+## Release 1.0.2rev1
+- Reverted medals to final layout because they broke
+- Removed unnessacary files for download
+
 ## Release 1.0.2
 - Fixed the Wonky Camera bug that appears when you disable hint rings.
 - Implemented better mod packing method for (hopefully) faster update downloads.
