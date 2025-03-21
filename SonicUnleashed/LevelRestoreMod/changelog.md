@@ -1,3 +1,7 @@
+
+## Release 2.0.0-HappyBirthday_hotfix2
+- Fixed broken China
+
 ## Release 2.0.0-HappyBirthday
 - Added Jungle Joyride Extension
 - I'm Celebrating my Birthday Early!!
