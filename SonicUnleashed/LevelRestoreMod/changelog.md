@@ -1,4 +1,4 @@
-## Release 1.0.2rev1
+## Release 1.0.2-rev1
 - Reverted medals to final layout because they broke
 - Removed unnessacary files for download
 
