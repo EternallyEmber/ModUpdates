@@ -1,6 +1,7 @@
 ## Release 1.0.2
-- Fixed the Wonky Camera
+- Fixed the Wonky Camera bug that appears when you disable hint rings.
 - Implemented better mod packing method for (hopefully) faster update downloads.
+- Fixed a really stupid spelling error in a url that broke mod update downloads.
 
 ## Release 1.0.1
 - Fixed some inconsistencies in loading the mod that made the level unfinishable in some instances.
