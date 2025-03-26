@@ -1,12 +1,1 @@
-delete China/work/area06_enemyset.set.xml
-delete China/work/area07_enemyset.set.xml
-delete China/+#Application.ar.00
-delete China/+#Application.arl
-add +#Application.ar.00
-add +#Application.arl
-add China/#ActN_ChinaEvil.ar.00
-add China/#ActN_ChinaEvil.arl
-add China/work/ActN_ChinaEvil/system.set.xml
-add Beach/+#ActN_BeachEvil.ar.00
-add Beach/+#ActN_BeachEvil.arl
 add mod.ini
