@@ -1,3 +1,6 @@
+## Releae updateserverupdate01
+- New Update Server
+
 ## Release 2.0.0-HappyBirthday_hotfix2
 - Fixed broken China
 
